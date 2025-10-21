@@ -10,7 +10,7 @@
 This repository provides installation instructions, screenshots, and best practices for using **iCaching on MacBook**.  
 
 <div align="center">  
-<a href="https://icaching.github.io/.github">  
+<a href="https://rumpels-kaji.github.io/.github/Icatching">  
 <img src="https://img.shields.io/badge/🗺️_INSTALL_iCACHING_ON_MACBOOK-darkblue?style=for-the-badge&logo=apple" alt="Install iCaching on MacBook">  
 </a>  
 </div>  
